@@ -1,4 +1,3 @@
-flask
-pyrebase
-python-dotenv
 gunicorn
+flask
+pymongo
